@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: bisque;
 }
 
 .App {
@@ -17,8 +18,12 @@ input,
 button {
   padding: 10px;
   margin: 5px;
+  border-radius: 20px;
+  color: midnightblue;
 }
-
+h1 {
+  color: midnightblue;
+}
 .current-weather,
 .weather-forecast {
   border: 1px solid #ccc;
